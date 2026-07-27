@@ -20,7 +20,7 @@ Developed and maintained Python automation solutions for content publishing, dat
 - Implemented authentication flows, email verification, image uploads, dynamic form interactions, and multi-step publishing processes
 - Developed parsing workflows for extracting, validating, structuring, and transforming data from websites, emails, and HTML documents
 - Integrated APIs and third-party services into Python applications
-- Integrated AI services into automation applications for content generation, rewriting, and uniqueness enhancement
+- Integrated AI services into automation applications for content generation, rewriting, and quality improvement
 - Improved automation reliability through explicit waits, iframe handling, resilient selectors, error recovery, and detailed execution logging
 
 ## Featured Projects
