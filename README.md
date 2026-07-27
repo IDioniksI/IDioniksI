@@ -12,6 +12,9 @@ I am open to opportunities in Python development, automation, backend engineerin
 
 ### Python Automation Developer
 
+**Boraah · Part-time**  
+*September 2024 – Present · Remote*
+
 Developed and maintained Python automation solutions for content publishing, data processing, and business workflows across 20+ web platforms.
 
 - Built Selenium-based workflows for publishing and managing content across multiple websites
